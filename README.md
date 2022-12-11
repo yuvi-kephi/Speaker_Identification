@@ -17,6 +17,6 @@ we created a model which reads the .wav file and makes tensors matrix of it  we 
 
 further we used softmax layer as activation layer
 
-at last optimization is done and we will trained and loded our model in .h5 extension.
+At last optimization is done, trained and loded in model.h5 extension.
 
 Here model.h5 is used for prediction.
