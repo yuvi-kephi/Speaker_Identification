@@ -19,4 +19,4 @@ further we used softmax layer as activation layer
 
 at last optimization is done and we will trained and loded our model in .h5 extension.
 
-and model.h5 is used for prediction
+Here model.h5 is used for prediction.
